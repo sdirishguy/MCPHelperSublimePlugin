@@ -19,7 +19,7 @@ This is a Sublime Text plugin that connects your editor to a local **Model Conte
 
 Here's what the plugin looks like in Sublime Text:
 
-![MCP Helper Sublime Demo](./screenshot.png)
+![MCP Helper Sublime Demo](./SublimePluginImage.png)
 
 ---
 
@@ -76,3 +76,5 @@ This project is licensed under the MIT License. See LICENSE for details.
 👤 Author
 David Donohue
 Built to streamline LLM-assisted development with a local-first mindset.
+
+> ⚠️ **Important:** This plugin requires a running [MCP Server](https://modelcontextprotocol.io) on your local machine. You must configure your own OpenAI or Gemini API keys in the MCP server. This plugin does not directly handle authentication or make API calls — it simply communicates with your local MCP server to trigger the tools you've defined.
