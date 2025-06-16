@@ -1,0 +1,18 @@
+[
+  {
+    "caption": "MCP: Generate Code",
+    "command": "mcp_generate_code"
+  },
+  {
+    "caption": "MCP: Review Code",
+    "command": "mcp_review_code"
+  },
+  {
+    "caption": "MCP: Refactor Code",
+    "command": "mcp_refactor_code"
+  },
+  {
+    "caption": "MCP: Translate Code",
+    "command": "mcp_translate_code"
+  }
+]
