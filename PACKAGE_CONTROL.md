@@ -11,6 +11,7 @@
 ### 1. Prepare Your Repository
 
 Ensure your repository has:
+
 - `README.md` with clear installation and usage instructions
 - `LICENSE` file
 - Proper file structure
@@ -51,7 +52,7 @@ git push origin v1.0.0
 }
 ```
 
-3. Submit a pull request to the Package Control Channel
+1. Submit a pull request to the Package Control Channel
 
 ### 4. Alternative: Direct GitHub Installation
 
@@ -66,7 +67,8 @@ Users can install directly from GitHub:
 ## Repository Requirements
 
 ### File Structure
-```
+
+```bash
 MCPHelperSublimePlugin/
 ├── MCPHelper.py
 ├── MCPHelper.sublime-commands
@@ -80,6 +82,7 @@ MCPHelperSublimePlugin/
 ```
 
 ### Required Files
+
 - **MCPHelper.py**: Main plugin file
 - **README.md**: Documentation and usage instructions
 - **LICENSE**: License information
@@ -88,6 +91,7 @@ MCPHelperSublimePlugin/
 ## Version Management
 
 Use semantic versioning:
+
 - **MAJOR.MINOR.PATCH** (e.g., 1.0.0)
 - Create tags for each release
 - Update version in package.json and plugin files
@@ -108,4 +112,4 @@ Use semantic versioning:
 - [ ] Version is tagged and released
 - [ ] Installation instructions are clear
 - [ ] Dependencies are documented
-- [ ] Plugin has been tested thoroughly 
+- [ ] Plugin has been tested thoroughly
