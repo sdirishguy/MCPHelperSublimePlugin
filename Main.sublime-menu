@@ -1,0 +1,34 @@
+[
+  {
+    "caption": "MCP Helper",
+    "id": "mcp-helper",
+    "children": [
+      {
+        "caption": "Generate Code",
+        "command": "mcp_generate_code"
+      },
+      {
+        "caption": "Review Code",
+        "command": "mcp_review_code"
+      },
+      {
+        "caption": "Refactor Code",
+        "command": "mcp_refactor_code"
+      },
+      {
+        "caption": "Translate Code",
+        "command": "mcp_translate_code"
+      },
+      {
+        "caption": "-"
+      },
+      {
+        "caption": "Settings",
+        "command": "edit_settings",
+        "args": {
+          "base_file": "${packages}/User/MCPHelper.sublime-settings"
+        }
+      }
+    ]
+  }
+] 

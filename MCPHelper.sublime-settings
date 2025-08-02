@@ -1,0 +1,8 @@
+{
+  "mcp_server_url": "http://localhost:8000/mcp.json/",
+  "timeout_seconds": 120,
+  "show_debug_output": false,
+  "default_model": "gpt-4o",
+  "default_temperature": 0.2,
+  "default_max_tokens": 512
+} 

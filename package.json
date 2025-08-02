@@ -1,0 +1,24 @@
+{
+  "name": "MCPHelper",
+  "version": "1.0.0",
+  "description": "Sublime Text plugin for Model Context Protocol (MCP) integration",
+  "author": "David Donohue",
+  "homepage": "https://github.com/your-repo/MCPHelperSublimePlugin",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-repo/MCPHelperSublimePlugin.git"
+  },
+  "keywords": [
+    "sublime-text",
+    "mcp",
+    "model-context-protocol",
+    "ai",
+    "code-generation"
+  ],
+  "license": "MIT",
+  "engines": {
+    "sublime_text": ">=4000"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+} 
