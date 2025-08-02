@@ -1,6 +1,6 @@
 {
   "name": "MCPHelper",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Sublime Text plugin for Model Context Protocol (MCP) integration",
   "author": "David Donohue",
   "homepage": "https://github.com/your-repo/MCPHelperSublimePlugin",
