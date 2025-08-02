@@ -30,16 +30,16 @@ cd package_control_channel
     "name": "MCPHelper",
     "description": "Sublime Text plugin for Model Context Protocol (MCP) integration",
     "author": "David Donohue",
-    "homepage": "https://github.com/YOUR_USERNAME/MCPHelperSublimePlugin",
+    "homepage": "https://github.com/sdirishguy/MCPHelperSublimePlugin",
     "repository": {
         "type": "git",
-        "url": "https://github.com/YOUR_USERNAME/MCPHelperSublimePlugin.git"
+        "url": "https://github.com/sdirishguy/MCPHelperSublimePlugin.git"
     },
     "labels": ["mcp", "ai", "code-generation", "sublime-text"],
     "releases": [
         {
-            "version": "1.0.0",
-            "url": "https://github.com/YOUR_USERNAME/MCPHelperSublimePlugin/archive/v1.0.0.zip",
+            "version": "1.0.1",
+            "url": "https://github.com/sdirishguy/MCPHelperSublimePlugin/archive/v1.0.1.zip",
             "sublime_text": ">=4000",
             "platforms": ["*"]
         }
@@ -71,7 +71,7 @@ git push origin main
 - **Name**: MCPHelper
 - **Description**: Sublime Text plugin for Model Context Protocol (MCP) integration
 - **Author**: David Donohue
-- **Repository**: https://github.com/YOUR_USERNAME/MCPHelperSublimePlugin
+- **Repository**: https://github.com/sdirishguy/MCPHelperSublimePlugin
 
 ### Features
 - Generate code from plain-text prompts
@@ -128,7 +128,7 @@ This plugin enables Sublime Text users to integrate with local MCP servers for A
 - [ ] All files are properly structured
 - [ ] README.md is comprehensive
 - [ ] LICENSE file is included
-- [ ] Version is tagged and released (v1.0.0)
+- [ ] Version is tagged and released (v1.0.1)
 - [ ] Installation instructions are clear
 - [ ] Dependencies are documented
 - [ ] Plugin has been tested thoroughly
