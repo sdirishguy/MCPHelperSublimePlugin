@@ -1,6 +1,6 @@
-# MCPHelper v1.0.0 - Initial Release
+# MCPHelper v1.0.1 - Second Release
 
-## 🎉 First Release of MCPHelper
+## 🎉 Second Release of MCPHelper
 
 A Sublime Text plugin that connects your editor to a local **Model Context Protocol (MCP) server**, letting you use OpenAI or Gemini-powered tools directly on selected code.
 
@@ -19,7 +19,7 @@ A Sublime Text plugin that connects your editor to a local **Model Context Proto
 
 ### Quick Start
 
-1. Download the `MCPHelper-v1.0.0.zip` file
+1. Download the `MCPHelper-v1.0.1.zip` file
 2. Extract to your Sublime Text User packages folder:
    - **Windows**: `%APPDATA%\Sublime Text\Packages\User\`
    - **macOS**: `~/Library/Application Support/Sublime Text/Packages/User/`
@@ -56,6 +56,7 @@ Or use the **MCP Helper** menu for easy access.
 ## ⚙️ Configuration
 
 Open Sublime Text settings:
+
 - Go to `Preferences > Package Settings > MCPHelper > Settings`
 - Configure your MCP server URL and model parameters
 
@@ -73,10 +74,11 @@ Open Sublime Text settings:
 
 ## 🎯 What's New
 
-- Initial release with comprehensive MCP integration
-- Professional error handling and user feedback
-- Configurable settings and menu integration
-- Complete documentation and troubleshooting guides
+- Enhanced error handling and user feedback
+- Improved settings integration and menu system
+- Better documentation and troubleshooting guides
+- Fixed markdown linting issues across all files
+- Updated version management and distribution tools
 
 ---
 
