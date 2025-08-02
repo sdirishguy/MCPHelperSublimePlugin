@@ -19,7 +19,7 @@ cd package_control_channel
 
 1. **Navigate to the repositories file:**
 
-   ```
+   ```bash
    package_control_channel/repository/repositories.json
    ```
 
